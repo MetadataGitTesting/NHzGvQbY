@@ -1,0 +1,57 @@
+name: bessie.schmidt
+description: encompassing
+version: 0.2.8.497
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: bessieschmidt
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-20 20:28:05'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-20 20:28:05'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-20T20:28:05.655129Z'
+  name: plibMaven
+  version: 8.8.0-SNAPSHOT
+  id: '396063636'
+  createdAt: '2024-12-20T20:28:05.655129Z'
+  type: plibMaven
+projectDependencies:
+  '164':
+    projectUID: 164
+    projectName: deeann.vonrueden
+    repositoryPath: gitUri=http://gitserver:3000/dev_ucouZFmB_team_320/dev_ucouZFmB_project_164.git&subPath=
+    version: deeann.vonrueden/3.7.9.182
+    isDefault: false
+    author: null
+    createdAt: '2024-12-20 20:28:05'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
